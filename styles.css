@@ -6,7 +6,8 @@
 }
 
 html, body {
-    font-family: sans-serif;
+    font-family: DharmaGothicE;
+    src: url(\DharmaGothicE_Bold_R.otf);
     height: 100%;
     overflow: hidden;
 }
